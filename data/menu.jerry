@@ -1,0 +1,37 @@
+[
+    {
+        "name"  : "Brontosaurus Burger",
+        "icon"  : "resources/images/burger.jpg",
+        "price" : "$8.95"
+    },
+
+    {
+        "name"  : "Gigantosaurus Grilled Chicken",
+        "icon"  : "resources/images/chicken.jpg",
+        "price" : "$7.95"
+    }
+
+    {
+        "name"  : "Lesothosaurus Lasagna",
+        "icon"  : "resources/images/lasagna.jpg",
+        "price" : "$10.95"
+    },
+
+    {
+        "name"  : "Triceratop Ramen",
+        "icon"  : "resources/images/noodles.jpg",
+        "price" : "$9.95"
+    },
+
+    {
+        "name"  : "Plateosaurus Pad Thai",
+        "icon"  : "resources/images/pad-thai.jpg",
+        "price" : "$12.95"
+    },
+
+    {
+        "name"  : "Stegosaurus Salmon",
+        "icon"  : "resources/images/salmon.jpg",
+        "price" : "$13.95"
+    }
+]

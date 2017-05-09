@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/images/burger.jpg</file>
+        <file>resources/images/chicken.jpg</file>
+        <file>resources/images/dinosaur.png</file>
+        <file>resources/images/lasagna.jpg</file>
+        <file>resources/images/noodles.jpg</file>
+        <file>resources/images/pad-thai.jpg</file>
+        <file>resources/images/salmon.jpg</file>
+        <file>main.cpp</file>
+        <file>lib/JSONListModel.qml</file>
+        <file>lib/jsonpath.js</file>
+        <file>data/menu.jerry</file>
+        <file>test/jsonlint.js</file>
+        <file>test/tst_JurassicJerry.qml</file>
+    </qresource>
+</RCC>
