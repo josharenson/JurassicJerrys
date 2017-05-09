@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
+        <file>JurassicJerrys.qml</file>
         <file>resources/images/burger.jpg</file>
         <file>resources/images/chicken.jpg</file>
         <file>resources/images/dinosaur.png</file>
