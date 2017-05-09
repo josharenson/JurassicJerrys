@@ -9,7 +9,9 @@ TestCase {
 
     property var menuFile: null
     function test_lint_menu() {
-
+        readTextFile("../data/menu.jerry")
+        while (!menuFile) { wait(1); }
+        JsonLint.jsonlint.parse(menuFile)
     }
 
     function readTextFile(file)

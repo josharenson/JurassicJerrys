@@ -9,7 +9,7 @@
         "name"  : "Gigantosaurus Grilled Chicken",
         "icon"  : "resources/images/chicken.jpg",
         "price" : "$7.95"
-    }
+    },
 
     {
         "name"  : "Lesothosaurus Lasagna",
